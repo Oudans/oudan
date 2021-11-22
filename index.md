@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 欧丹2006010239
 
-You can use the [editor on GitHub](https://github.com/Oudans/oudan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 基本资料
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Oudans/oudan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+欧丹 2006010239
+湖南长沙 2002年11月17日  
+公共管理与人文地理学院旅游管理专业 
+大二  
+团员 
+2043782294@qq.com
+技能:吃吃喝喝睡睡、能说会道
+主修课程:旅游接待管理、旅游新营销、旅游业概论
+获奖情况:曾被评为长沙市三好学生、湖南省三好学生、曾获得徐特立奖学金，获得全国语文能力竞赛一等奖、英语口语比赛二等奖。
+兴趣爱好:看书、听音乐、看电影、购物、吃各种好吃的食物
+自我评价:一枚懒惰且爱吃食物除了数学其他都不错的女孩。我期望我的数学能够在大学阶段有所突破，期望能够按照自己的职业规划平稳地发展。期望老师这个选修课给我高分。
